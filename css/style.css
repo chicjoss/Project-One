@@ -80,9 +80,9 @@ input[type=text],input[type=email]{
 }
 input [type=submit]{
     align-items: center;
-    width: 12%;
+    width: 14%;
     margin: 1.5em;
-    border-radius: 250% ;
+    border-radius: 40% ;
     font-size:5.5em;
     font-family: 'Lora', ;
 }
