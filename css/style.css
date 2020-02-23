@@ -1,21 +1,21 @@
 body{
-     background-color:#DFDFDF;
+     background-color:#3c4c82;
      margin-left: auto;
      margin-right: auto;
 }
 html{
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans';
     text-align: center;
     font-size:2.0em;
-    color: 1B5675;
+    color: turquoise;
     vertical-align: middle;
 
 
 }
 @media only screen and (max-width:850px){
     body{
-      color:1B5675;
+      color:turquoise;
       font-size: 1em;
     }
 
@@ -30,8 +30,14 @@ html{
 h1{
     color:1B5675;
     font-family: 'Lora', ;
-    font-size:1.5em;
-    text-shadow:white 0 0 2em;
+    font-size:2.5em;
+    text-shadow:#2303ec 0 0 4em;
+}
+@media only screen and (min-width: 900px){
+ body{
+     font-size: 2.0em;
+     color:1B5675;
+ }
 }
 @media only screen and (min-width: 1100px) {
     body {
@@ -59,7 +65,7 @@ input::placeholder{
     text-align: center;
 }
 div{
-    height:5.6em;
+    height:22em;
     align-items: center;
     text-align:center;
 
@@ -68,15 +74,16 @@ div{
 
 input[type=text],input[type=email]{
     width:20%;
-    font:1.5em;
-    padding:1em
+    font:0.9em;
+    padding:0.6em
 
 }
 input [type=submit]{
     align-items: center;
-    width: 14%;
-    margin: 3.5em;
-    border-radius: 40% ;
-    font-size:5.5em;
+    width: 15%;
+    margin: 2.5em;
+    border-radius: 50% ;
+    font-size:6.5em;
     font-family: 'Lora', ;
 }
+
