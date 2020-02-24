@@ -56,8 +56,7 @@ h1{
    h1{
     color: FF9F02 ;
     font-size:1.5em;
-    font-family: 'Lora', ;
-    text-shadow:FFF3E0 0 0 1em;
+    font-family: 'Lora';
 }
 
 input::placeholder{
@@ -83,7 +82,7 @@ input [type=submit]{
     margin: 1.5em;
     border-radius: 50% ;
     font-size:6.5em;
-    font-family: 'Lora', ;
+    font-family: 'Lora' ;
 }
 
 
