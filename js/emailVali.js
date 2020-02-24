@@ -1,4 +1,3 @@
-
 function emailVali() {
 
 var email=document.getElementById("your_email").value;
