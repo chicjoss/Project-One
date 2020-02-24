@@ -69,13 +69,7 @@ div{
 
 }
 
- .box{
-     text-align: center;
-     height: auto;
-     width: auto;
-     padding: 2em;
-     background-color: black;
-}
+
 
 input[type=text],input[type=email]{
     width:80%;
