@@ -1,5 +1,5 @@
 function Alert() {
     alert("Thank you for signing up!");
-    alert("Get rid to understand cloud");
+    alert("Get ready to understand cloud");
     return false;
   }
