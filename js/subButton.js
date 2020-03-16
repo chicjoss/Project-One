@@ -1,5 +1,5 @@
 function Alert() {
-    alert("Thank you for applying!");
-    alert("If your resume fits our needs we will contact you!");
+    alert("Thank you for applying!Good Luck ");
+   
     return false;
   }
