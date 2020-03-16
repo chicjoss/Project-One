@@ -1,5 +1,5 @@
 body{
-     background-color:#d1d1f3;
+     background-color:#8080a0;
      margin-left: auto;
      margin-right: auto;
 }
@@ -8,13 +8,13 @@ html{
     font-family: 'Lucida Sans';
     text-align: center;
     font-size:2.0em;
-    color: #9049c7;
+    color: #afa3b9;
     vertical-align: right;
 
 }
 @media only screen and (max-width:850px){
     body{
-      color:#592f8c;
+      color:#b8afc3;
       font-size: 1.2em;
     }
 
@@ -27,20 +27,20 @@ html{
     text-align: center;
 }
 h1{
-    color:#432b6f;
+    color:#000000;
     font-family: 'Lora';
     font-size:1.5em;
 }
 @media only screen and (min-width: 900px){
  body{
      font-size: 1.0em;
-     color:#ae32fd;
+     color:#216cb7;
  }
 }
 @media only screen and (min-width: 1200px) {
     body {
       font-size: 0.7em;
-      color:#bf00ff;
+      color:#1e2e73;
     }
 
 
@@ -53,7 +53,7 @@ h1{
         text-align: center;
    }
    h1{
-    color:#8f00b3;
+    color:#010761;
     font-size:1.0em;
     font-family: 'Lora';
 }
@@ -81,6 +81,8 @@ input [type=submit]{
     font-size:2.5em;
     font-family: 'Lora';
 }
+
+
 
 
 
