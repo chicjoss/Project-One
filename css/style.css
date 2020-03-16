@@ -39,7 +39,7 @@ h1{
 }
 @media only screen and (min-width: 1200px) {
     body {
-      font-size: 1.3em;
+      font-size: 0.7em;
       color:#bf00ff;
     }
 
@@ -54,11 +54,11 @@ h1{
    }
    h1{
     color:#8f00b3;
-    font-size:1.5em;
+    font-size:1.0em;
     font-family: 'Lora';
 }
 div{
-    height:22em;
+    height:em;
     align-items: center;
     text-align:center;
 
@@ -68,18 +68,19 @@ input::placeholder{
 }
 
 input[type=text],input[type=email]{
-    width:80%;
+    width:45%;
     font:1.0em;
-    padding:0.5em
+    padding:.5em
 
 }
 input [type=submit]{
     align-items: center;
     width: 15%;
-    margin: 1.5em;
-    border-radius: 50% ;
-    font-size:6.5em;
+    margin: 0.5em;
+    border-radius: 30% ;
+    font-size:2.5em;
     font-family: 'Lora';
 }
+
 
 
