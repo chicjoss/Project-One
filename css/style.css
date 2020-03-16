@@ -7,14 +7,14 @@ html{
     text-align: center;
     font-family: 'Lucida Sans';
     text-align: center;
-    font-size:2.0em;
-    color: #afa3b9;
-    vertical-align: middle;
+    font-size:1.0em;
+    color: #8080a0;
+    vertical-align: right;
 
 }
 @media only screen and (max-width:850px){
     body{
-      color:#b8afc3;
+      color:#36086f;
       font-size: 1.2em;
     }
 
@@ -33,7 +33,7 @@ h1{
 }
 @media only screen and (min-width: 900px){
  body{
-     font-size: 1.0em;
+     font-size: .5em;
      color:#216cb7;
  }
 }
@@ -58,7 +58,7 @@ h1{
     font-family: 'Lora';
 }
 div{
-    height:1.0em;
+    height:1em;
     align-items: center;
     text-align:center;
 
@@ -78,9 +78,12 @@ input [type=submit]{
     width: 15%;
     margin: 0.5em;
     border-radius: 30% ;
-    font-size:2.5em;
+    font-size:1.5em;
     font-family: 'Lora';
 }
+
+
+
 
 
 
