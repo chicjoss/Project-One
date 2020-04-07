@@ -1,7 +1,5 @@
 body{
      background-color:#8080a0;
-     margin-left: auto;
-     margin-right: auto;
 }
 html{
     text-align: center;
@@ -9,7 +7,7 @@ html{
     text-align: center;
     font-size:1.0em;
     color: #8080a0;
-    vertical-align: middle;
+ 
 
 }
 @media only screen and (max-width:850px){
@@ -20,11 +18,7 @@ html{
 
   }
   label{
-    float:none;
     display: inline-block;
-    margin-right: auto;
-    margin-left: auto;
-    text-align: center;
 }
 h1{
     color:#000000;
@@ -46,7 +40,6 @@ h1{
 
     }
     label{
-        float:none;
         display: inline-block;
         margin-right: auto;
         margin-left: auto;
@@ -63,9 +56,6 @@ div{
     text-align:center;
 
 }
-input::placeholder{
-    text-align: center;
-}
 
 input[type=text],input[type=email]{
     width:45%;
@@ -74,7 +64,6 @@ input[type=text],input[type=email]{
 
 }
 input [type=submit]{
-    align-items: center;
     width: 15%;
     margin: 0.5em;
     border-radius: 30% ;
