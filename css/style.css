@@ -10,6 +10,9 @@ html{
  
 
 }
+  label{
+    display: inline-block;
+}
 @media only screen and (max-width:850px){
     body{
       color:#36086f;
