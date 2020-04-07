@@ -13,10 +13,17 @@ html{
   label{
     display: inline-block;
 }
+
+div{
+    height: 1em;
+    align-items: center;
+    text-align:center;
+
+}
 @media only screen and (max-width:850px){
     body{
       color:#36086f;
-      font-size: 1.2em;
+      font-size: 0.9em;
     }
 
   }
@@ -53,12 +60,7 @@ h1{
     font-size:1.0em;
     font-family: 'Lora';
 }
-div{
-    height:1em;
-    align-items: center;
-    text-align:center;
 
-}
 
 input[type=text],input[type=email]{
     width:45%;
