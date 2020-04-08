@@ -13,6 +13,11 @@ html{
   label{
     display: inline-block;
 }
+h1{
+    color:#000000;
+    font-family: 'Lora';
+    font-size:1.5em;
+}
 
 div{
     height: 1em;
@@ -34,6 +39,13 @@ h1{
     color:#000000;
     font-family: 'Lora';
     font-size:1.5em;
+}
+input [type=submit]{
+    width: 30%;
+    margin: 0.5em;
+    border-radius: 40% ;
+    font-size:2.5em;
+    font-family: 'Lora';
 }
 @media only screen and (min-width: 900px){
  body{
